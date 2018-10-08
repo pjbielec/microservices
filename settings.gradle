@@ -1,0 +1,3 @@
+rootProject.name = 'microservices-medium-com'
+include 'image-service'
+
